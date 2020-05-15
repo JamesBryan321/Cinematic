@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="RockVR" t="Include">
+          <e p="Common" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="EventDelegate.cs" t="Include" />
+              <e p="FPSDisplay.cs" t="Include" />
+              <e p="Platform.cs" t="Include" />
+              <e p="Process.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Video" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AutoRotate.cs" t="Include" />
+                <e p="VideoCaptureUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="VideoCaptureEditor.cs" t="Include" />
+              <e p="VideoCaptureMenuEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AudioCapture.cs" t="Include" />
+              <e p="Base" t="Include">
+                <e p="VideoCaptureBase.cs" t="Include" />
+                <e p="VideoCaptureCtrlBase.cs" t="Include" />
+              </e>
+              <e p="Config.cs" t="Include" />
+              <e p="Screenshot.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="Utils.cs" t="Include" />
+              </e>
+              <e p="VideoCapture.cs" t="Include" />
+              <e p="VideoCaptureCtrl.cs" t="Include" />
+              <e p="VideoPlayer.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CopyReverse.shader" t="Include" />
+              <e p="Cubemap2Equirectangular.shader" t="Include" />
+              <e p="Cubemap2EquirectangularPro.shader" t="Include" />
+              <e p="CubemapDisplayPro.shader" t="Include" />
+              <e p="CubemapToCylindrical.shader" t="Include" />
+              <e p="DownsamplePro.shader" t="Include" />
+              <e p="FlippingTexture.shader" t="Include" />
+              <e p="Stereoscopic.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Cinematic.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Cinematic.1486984323.00" t="ExcludeRecursive" />
+  </component>
+</project>
